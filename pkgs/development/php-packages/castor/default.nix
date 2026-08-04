@@ -15,10 +15,10 @@ php.buildComposerProject2 (finalAttrs: {
     owner = "jolicode";
     repo = "castor";
     tag = "v${finalAttrs.version}";
-    hash = "sha256-3a0LJTlXTX28DYcHTfaUek2WzIuOhx6DaDm3RVu/rXA=";
+    hash = "sha256-KxmNNvSHW67WwDJToteQI3NJmWGtNikOQVU8F+QUK/8=";
   };
 
-  vendorHash = "sha256-YIj/eNjxjYnc1yVeZ5U1O6YMULPK8233+s2AF82OCYw=";
+  vendorHash = "sha256-lBBJadq2WDUM4UU6im0YBfs9wXEXP7b6cX6nInL6Rco=";
 
   nativeBuildInputs = [ installShellFiles ];
 
